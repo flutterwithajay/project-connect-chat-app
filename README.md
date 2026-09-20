@@ -1,7 +1,8 @@
 <img width="200" height="300" alt="Screenshot_1771350713" src="https://github.com/user-attachments/assets/6c96ec6c-62f5-4524-8ff2-a64ff6905113" />
 <img width="200" height="300" alt="Screenshot_1770820675" src="https://github.com/user-attachments/assets/0435d7cf-c3ff-40ba-bf4f-50e407516ad2" />
 <img width="200" height="300" alt="Screenshot_1771350780" src="https://github.com/user-attachments/assets/2e46031b-06b9-4a79-b569-2544a548f038" />
-# Project Connect
+
+## Project Connect
 
 Project Connect is a Flutter-based communication application designed to connect **students and project guides** in one place. It allows students to communicate with their guides and share project-related documents and reports.
 
